@@ -1,0 +1,10 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "c7ef2ee7-3971-46d6-b434-448c47018108",
+      "type": "process"
+    }
+  ]
+}
